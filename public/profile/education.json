@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "August 2020 - May 2022",
+            "cardTitle": "MENG., Electrical and Computer Engineering",
+            "cardSubtitle":"University of Calgary, Calgary, AB, Canada",
+            "cardDetailedText": "GPA - 3.8"
+        },
+        {
+            "title": "August 2015 - June 2019",
+            "cardTitle": "B.E, Computer Engineering",
+            "cardSubtitle":"Gujarat Technological University (GTU), India",
+            "cardDetailedText": "GPA - 3.5"
+        }
+    ]
+}

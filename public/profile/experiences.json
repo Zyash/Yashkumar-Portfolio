@@ -1,0 +1,28 @@
+{
+    "experiences": [
+        {
+            "title": "Assistant System Engineer",
+            "subtitle": "TATA Consultancy Services (TCS)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led, Supervised, and trained a cross-functional team of three interns with their responsibilities in the appointed project.",
+                "Worked on several different types of projects that includes using different type of programming languages.",
+                "Revised, modularized, and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
+                "Employ best coding practices and object-oriented programming techniques."
+            ],
+            "dateText": "01/2020 – 01/2021"
+        },
+        {
+            "title": "Intern - Software xDeveloper",
+            "subtitle": "Green Apex Technolabs",
+            "workType": "Intern",
+            "workDescription": [
+                "Collaborated with other interns on several project to meet program requirements and demonstrate skills development.",
+                "Learned software engineering process improvements and best practices.",
+                "Wrote clear, clean code for various project. Leveraged my knowledge of JavaScript and Java to contribute to revamp of flagship appʼs homepage, leading to increase in click rates."
+                
+            ],
+            "dateText": "05/2018 – 08/2018"
+        }
+    ]
+}
